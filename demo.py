@@ -1,1 +1,2 @@
-Priny("hello World")
+Print ("hello World")
+print (" Good noon")
